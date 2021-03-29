@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fornaro Claudio
-description: Chief Sales Officer - Responsabile vendite
+description: Direttore Vendite & Clienti
 lang: it
 ref: fornaro-claudio
 order: 25
