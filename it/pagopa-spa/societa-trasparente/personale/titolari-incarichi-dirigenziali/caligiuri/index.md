@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Caligiuri Patrizio
-description: Responsabile relazioni e affari istituzionali
+description: Direttore Affari Istituzionali & Comunicazione
 lang: it
 ref: patrizio-caligiuri
 order: 25
