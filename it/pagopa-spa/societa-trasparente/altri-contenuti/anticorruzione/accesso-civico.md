@@ -16,7 +16,7 @@ Ai sensi dell’art. 5, co. 1, del D.Lgs. 33/2013 qualora PagoPA S.p.A. ometta d
 ### Come funziona?
 L’accesso civico semplice può essere esperito da chiunque tramite un’apposita istanza in cui bisogna individuare i dati, le informazioni o i documenti dei quali si richiede la pubblicazione.
 
-L’istanza <u>non</u> deve essere motivata e può essere trasmessa alla Società con le seguenti modalità:
+L’istanza <u>non</u> deve essere motivata e può essere trasmessa alla Società, nella persona del RPTC (avv. Marta Colonna), con le seguenti modalità:
 - a mezzo mail: all’indirizzo <trasparenza@pagopa.it>;
 - a mezzo posta o a mani: presso la sede operativa della Società, sita in Roma, alla Via Sardegna n. 38 - CAP 00187.
 - a mezzo PEC: all’indirizzo <pagopa@pec.governo.it> specificando nell’oggetto: “Accesso civico”.
@@ -29,6 +29,6 @@ L’istanza è gratuita e può essere inoltrata compilando il presente **[modulo
 ### Qual è il risultato dell’istanza?
 A seguito dell’istanza, qualora sia accertata l’omessa pubblicazione del documento, del dato o dell’informazione, la Società provvederà all’adempimento della pubblicazione e invierà al richiedente l’URL del sito web contenente le pubblicazioni richieste.
 
-Nel caso in cui siano trascorsi più di 30 giorni dal perfezionamento dell’invio dell’istanza, oppure qualora la stessa sia rimasta completamente o parzialmente inevasa, il richiedente potrà reiterare l’istanza al Titolare del Potere Sostitutivo, il Direttore Finanza & Amministrazione, inoltrando il seguente [modulo](../modulo-istanza-potere-esecutivo-semplice.rtf) all’indirizzo mail: <poteresostitutivo@pagopa.it>.
+Nel caso in cui siano trascorsi più di 30 giorni dal perfezionamento dell’invio dell’istanza, oppure qualora la stessa sia rimasta completamente o parzialmente inevasa, il richiedente potrà reiterare l’istanza al Titolare del Potere Sostitutivo, il Direttore Finanza & Amministrazione (avv. Maria Teresa Lucibello), inoltrando il seguente [modulo](../modulo-istanza-potere-esecutivo-semplice.rtf) all’indirizzo mail: <poteresostitutivo@pagopa.it>.
 
 Il titolare del potere sostitutivo risponderà all’istanza di riesame entro il termine di 20 giorni.
